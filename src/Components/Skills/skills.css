@@ -1,0 +1,59 @@
+#skills{
+    overflow: hidden;
+    width:100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+.myskills{
+    font-size: 50px;
+    padding-bottom: 2rem;
+    text-decoration: underline;
+    text-decoration-color:aqua;
+
+
+}
+.skillbars{
+    width: 100vw;
+    max-width: 80%;
+    text-align: left;
+}
+.skillbar{
+    display: flex;
+    flex-direction: column;
+    border-radius: 0.5rem;
+    background-color: rgb(30, 25, 25);
+    margin-bottom: 10px;
+    border-radius: 20px;
+
+}
+img{
+    width: 50px;
+    height: 50px;
+    align-self: center;
+}
+h1{
+    align-self: center;
+}
+h3{
+    padding-left: 100px;
+}
+@media screen and (max-width: 770px){
+    .myskills{
+        font-size: 30px;
+        padding-bottom: 2rem;
+    
+    }
+    h1{
+        font-size: 15px;
+        align-self: center;
+    }
+    h3{
+        padding-left: 0px;
+        font-size: 10px;
+    }
+}
