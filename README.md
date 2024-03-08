@@ -1,4 +1,4 @@
-// Abhishek Portfolio
+# Abhishek Portfolio
 
 This project aims to build the portfolio of Abhishek using React. This project is fully responsive. 
 
@@ -7,8 +7,8 @@ This project aims to build the portfolio of Abhishek using React. This project i
 - **Skills Section**: Highlight my skills and expertise.
 - **Experience**: Share my work experience and accomplishments.
 - **Contact Information**: Provide ways for visitors to get in touch with me.
--
-- ## Technologies Used
+  
+## Technologies Used
 
 - **ReactJS**: Frontend framework for building user interfaces.
 - **HTML/CSS**: Structuring and styling the website.
@@ -45,4 +45,5 @@ This project aims to build the portfolio of Abhishek using React. This project i
 
 5. Open your browser and view the website.
 
- # Hope you will enjoy it.
+# Note:
+This project for my portfolio is outdated though. To view my updated portfolio, visit [Abhishek Amgain](https://amgaina.github.io/amgaina/)
